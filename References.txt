@@ -232,3 +232,12 @@ http://sourceforge.net/projects/itextsharp/
 
 This is a .NET library for exporting data to a PDF file.
 ===================================================================
+
+====Suggestions by Steven Liu========================================
+
+If you're interested in making videogames I highly recommend the Unity Engine; lots of great
+tutorials and a gigantic community which has asked virtually every question you could have
+about using it. It's also freely available if you're only doing hobby projects. The engine uses
+C# as a scripting language as well, so anyone with experience in a C-based language should be 
+able to find their way around Unity fairly quickly.
+=====================================================================
